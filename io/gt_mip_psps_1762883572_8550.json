@@ -1,0 +1,1 @@
+{"feasible":true,"J":1882.7206029523393,"shed_MW":-1.7763568394002505E-15,"notes":"OK","opt_switches":[118,131,135],"opt_plan":{"corridor_actions":[{"name":"UNK","action":"open","line":118},{"name":"UNK","action":"open","line":131},{"name":"S6","action":"open","line":135}]}}

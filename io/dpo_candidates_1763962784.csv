@@ -1,0 +1,6 @@
+xi,plan,J_dc,V_pen,J_ac,feasible_dc,ac_ok,notes
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8708.json,open(125); open(131); open(141),,,,0,0,DC OPF exception: mpoption: 'OPF_DC' is not a valid old-style option name
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8708.json,open(41); open(128); open(S6:136),,,,0,0,DC OPF exception: mpoption: 'OPF_DC' is not a valid old-style option name
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3021.json,open(41); open(128); open(S6:136),,,,0,0,DC OPF exception: mpoption: 'OPF_DC' is not a valid old-style option name
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3021.json,open(41); open(128); open(S132:156),,,,0,0,DC OPF exception: mpoption: 'OPF_DC' is not a valid old-style option name
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3021.json,open(S2:15); open(S2:16); open(S2:17),,,,0,0,DC OPF exception: mpoption: 'OPF_DC' is not a valid old-style option name

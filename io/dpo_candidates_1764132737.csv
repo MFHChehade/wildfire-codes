@@ -1,0 +1,465 @@
+xi,plan,J_dc,V_pen,J_ac,feasible_dc,ac_ok,notes
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8708.json,open(125); open(131); open(141),0,18684.851331711885,18684.851331711885,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8708.json,open(41); open(128); open(S6:136),0,17008.972477114505,17008.972477114505,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3021.json,open(41); open(128); open(S6:136),0,17465.748964620027,17465.748964620027,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3021.json,open(S2:15); open(S2:16); open(S2:17),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3021.json,open(S2:15); open(S1:34); open(S3:70),0,19373.615841472674,19373.615841472674,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8378.json,open(105); open(128); open(S6:136),0,17379.176899030685,17379.176899030685,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8378.json,open(105); open(128); open(S130:146),0,16356.706544303628,16356.706544303628,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8378.json,open(34); open(35); open(40),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9002.json,open(118); open(131); open(S7:150),0,21417.24365577393,21417.24365577393,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9002.json,open(118); open(131); open(149),0,22265.269812717957,22265.269812717957,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9002.json,open(118); open(S1:41); open(128),0,24392.51176802438,24392.51176802438,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9002.json,open(118); open(131); open(S9:10),0,22964.017695883897,22964.017695883897,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9002.json,open(118); open(131); open(S6:135),0,21226.52983147182,21226.52983147182,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9002.json,open(S1:34); open(S2:15); open(S3:70),0,19645.5155341307,19645.5155341307,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9002.json,open(S6:136); open(S7:150); open(S1:34),0,23255.719165118117,23255.719165118117,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_564.json,open(131); open(149); open(S7:150),0,17190.614308135046,17190.614308135046,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_564.json,open(131); open(149),0,17038.892365756565,17038.892365756565,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_564.json,open(131); open(S7:149); open(141),0,20986.53391574529,20986.53391574529,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_564.json,open(131),0,17032.18499530705,17032.18499530705,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8133.json,open(131); open(149); open(S7:150),0,15376.199135164643,15376.199135164643,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8133.json,open(131),0,15261.473225210433,15261.473225210433,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8133.json,open(131); open(149),0,15285.3660977767,15285.3660977767,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8133.json,open(131); open(S7:150),0,15374.419729062882,15374.419729062882,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8133.json,open(S3:70); open(S3:71); open(S3:72),0,27089.760801284207,27089.760801284207,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8133.json,open(S1:34); open(S1:35); open(S1:40),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4437.json,open(131); open(149); open(S7:150),0,15368.22258134279,15368.22258134279,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4437.json,open(131); open(149),0,15272.504981147615,15272.504981147615,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4437.json,open(131),0,15284.859679090187,15284.859679090187,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4437.json,open(S4:96); open(S7:150); open(S1:34),0,21513.518462083393,21513.518462083393,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2016.json,open(105); open(128); open(S6:136),0,17026.882730515812,17026.882730515812,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2016.json,open(105); open(128); open(S2:19),0,16057.76866143881,16057.76866143881,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9528.json,open(41); open(128); open(S6:136),0,19423.784630526377,19423.784630526377,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9528.json,open(105); open(128); open(S6:136),0,19491.152044583756,19491.152044583756,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9528.json,open(105); open(128); open(S1:42),0,18441.02669988335,18441.02669988335,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2976.json,open(105); open(128); open(S6:136),0,21905.47943097983,21905.47943097983,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2976.json,open(105); open(128); open(S6:135),0,20889.946866158483,20889.946866158483,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2976.json,open(S2:15); open(S8:160); open(S1:34),0,21391.698720376808,21391.698720376808,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4541.json,open(125); open(131); open(141),0,20322.14592586891,20322.14592586891,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4541.json,open(5); open(135); open(34),0,25497.14698569375,25497.14698569375,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7547.json,open(105); open(128); open(S6:136),0,18679.380036672923,18679.380036672923,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7547.json,open(105); open(128); open(S1:41),0,17543.252360197494,17543.252360197494,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7349.json,open(118); open(131); open(S7:149),0,21039.258286104465,21039.258286104465,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7349.json,open(118); open(131); open(149),0,21039.258286104465,21039.258286104465,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7349.json,open(S1:41); open(128); open(S6:136),0,17800.146169672924,17800.146169672924,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7349.json,open(118); open(131); open(S6:135),0,21396.01973219041,21396.01973219041,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7349.json,open(118); open(131),0,21368.410390353645,21368.410390353645,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6334.json,open(105); open(128); open(S6:136),0,16672.55330396323,16672.55330396323,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6334.json,open(105); open(128),0,15414.276645983182,15414.276645983182,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6334.json,open(S3:70); open(S3:71); open(S3:72),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1810.json,open(132); open(147); open(S7:150),0,16980.082044526087,16980.082044526087,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1810.json,open(132),0,16188.494000509445,16188.494000509445,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9170.json,open(131); open(149); open(S7:150),0,21863.491069493906,21863.491069493906,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9170.json,open(131),0,20510.95753960498,20510.95753960498,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9170.json,open(131); open(149),0,21469.616638312364,21469.616638312364,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8534.json,open(S4:105); open(128); open(S6:136),0,22438.95308546388,22438.95308546388,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8534.json,open(118); open(S1:41); open(128),0,28642.549947876763,28642.549947876763,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8534.json,open(118); open(S6:139); open(143),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8534.json,open(118); open(S5:123); open(131),0,27479.73520873136,27479.73520873136,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8534.json,open(S6:139); open(143); open(156),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8534.json,open(118); open(131); open(S6:139),0,27351.80751026742,27351.80751026742,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8534.json,open(S4:99); open(118),0,29348.10362772059,29348.10362772059,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8534.json,open(149),0,20950.177503462186,20950.177503462186,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8534.json,open(34); open(15); open(70),0,24495.893858339263,24495.893858339263,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6051.json,open(131); open(149); open(S7:150),0,17190.614308135046,17190.614308135046,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6051.json,open(131); open(149),0,17038.892365756565,17038.892365756565,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6051.json,open(131); open(S7:150),0,17233.850074108457,17233.850074108457,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6051.json,open(131),0,17032.18499530705,17032.18499530705,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6051.json,open(S1:34); open(S2:15); open(S3:70),0,20392.481036723726,20392.481036723726,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3281.json,open(125); open(131); open(141),0,19389.089173363067,19389.089173363067,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3281.json,open(S6:135); open(S6:136); open(S6:137),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3281.json,open(S6:135); open(S8:160); open(S1:34),0,16952.906809682314,16952.906809682314,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6521.json,open(131); open(149); open(S7:150),0,18887.7825058354,18887.7825058354,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6521.json,open(131); open(149),0,18719.611095147986,18719.611095147986,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6521.json,open(131),0,18561.04739959685,18561.04739959685,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6521.json,open(131); open(186),0,18941.441417646372,18941.441417646372,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6521.json,open(S1:34); open(S1:35); open(S1:40),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6521.json,open(S1:34); open(S1:35); open(S2:15),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_350.json,open(105); open(128); open(S6:136),0,21006.460939026067,21006.460939026067,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_350.json,open(105); open(128); open(132),0,21001.608693581322,21001.608693581322,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4534.json,open(118); open(131); open(S7:149),0,21004.373816188323,21004.373816188323,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4534.json,open(118); open(S1:41); open(128),0,21299.9615940284,21299.9615940284,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4534.json,open(118); open(128),0,21393.37538675198,21393.37538675198,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4534.json,open(118); open(131); open(149),0,21004.373816188323,21004.373816188323,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4534.json,open(118); open(131),0,21335.66904038683,21335.66904038683,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6688.json,open(131); open(149); open(S7:150),0,18429.512996256624,18429.512996256624,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6688.json,open(131),0,17070.153855843346,17070.153855843346,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6688.json,open(131); open(S7:150),0,17385.99487145957,17385.99487145957,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7066.json,open(119); open(S5:123); open(125),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7066.json,open(131); open(149); open(S7:150),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7066.json,open(119); open(S5:124); open(125),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7066.json,open(131); open(149),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7066.json,open(S9:5); open(S5:120); open(S1:34),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2943.json,open(37); open(131); open(S7:150),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2943.json,open(131); open(149); open(S7:150),0,,1000000.0,1,0,DC PF success | AC exception: mp.net_model.ensure_ref_node: must have at least one REF or PV node
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2943.json,open(S7:150); open(S7:151); open(S7:152),0,,1000000.0,1,0,DC PF success | AC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5364.json,open(131); open(149); open(S7:150),0,18850.445003498713,18850.445003498713,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5364.json,open(131); open(149),0,18691.376541806756,18691.376541806756,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5364.json,open(131); open(141); open(S8:165),0,23076.914548428264,23076.914548428264,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5745.json,open(131); open(149); open(S7:150),0,16432.41855563494,16432.41855563494,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5745.json,open(131); open(147); open(S7:150),0,16838.708285952627,16838.708285952627,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5745.json,open(131); open(141); open(S7:150),0,21461.98213577791,21461.98213577791,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5745.json,open(131); open(149),0,16277.223213834262,16277.223213834262,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5745.json,open(131); open(S7:150),0,16485.321965339033,16485.321965339033,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5745.json,open(131),0,16282.149473575582,16282.149473575582,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5745.json,open(S1:34); open(S2:15); open(S3:70),0,19642.50771006963,19642.50771006963,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3684.json,open(37); open(131); open(S7:150),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3684.json,open(S1:34); open(S2:15); open(S4:95),0,,1000000.0,1,0,DC PF success | AC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5206.json,open(105); open(128); open(S6:136),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5206.json,open(3); open(131); open(S7:150),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5206.json,open(4); open(128); open(S6:136),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5206.json,open(2); open(128),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5206.json,open(7); open(117),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5206.json,open(117); open(S7:150); open(131),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5206.json,open(97); open(105); open(S7:150),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5206.json,open(97); open(7); open(S1:41),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5206.json,open(S1:34); open(S2:15); open(S3:70),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5913.json,open(118); open(131); open(S7:150),0,21417.24365577393,21417.24365577393,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5913.json,open(118); open(131); open(149),0,22265.269812717957,22265.269812717957,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5913.json,open(118); open(131); open(S7:149),0,22265.269812717957,22265.269812717957,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5913.json,open(131); open(149); open(S7:150),0,17764.404858898655,17764.404858898655,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5913.json,open(118); open(S1:41); open(128),0,24392.51176802438,24392.51176802438,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5913.json,open(118); open(131),0,21226.52983147182,21226.52983147182,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5913.json,open(118); open(131); open(S6:135),0,21226.52983147182,21226.52983147182,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8138.json,open(131); open(149); open(S7:150),0,16967.849826937312,16967.849826937312,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8138.json,open(131); open(S7:150),0,17015.076740665427,17015.076740665427,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8138.json,open(131); open(141); open(S7:149),0,20614.673664101814,20614.673664101814,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8138.json,open(131),0,16805.703500710013,16805.703500710013,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8138.json,open(131); open(149),0,16808.801062118964,16808.801062118964,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5685.json,open(105); open(128); open(S6:136),0,17825.940206731746,17825.940206731746,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5685.json,open(105); open(128),0,16568.02787464294,16568.02787464294,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5685.json,open(S2:15); open(S2:16); open(S2:19),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6366.json,open(105); open(128); open(S6:136),0,22336.13812392999,22336.13812392999,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6366.json,open(105); open(128); open(S130:131),0,22133.41146869678,22133.41146869678,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8483.json,open(131); open(149); open(S7:150),0,16510.192802786078,16510.192802786078,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8483.json,open(131),0,16226.108828292889,16226.108828292889,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8483.json,open(131); open(149),0,16375.267306634869,16375.267306634869,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8550.json,open(118); open(131); open(S7:149),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8550.json,open(118); open(131); open(S6:135),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8550.json,open(118); open(131),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6769.json,open(131); open(149); open(S7:150),0,16446.774389904516,16446.774389904516,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6769.json,open(131); open(S7:150),0,16454.311464828734,16454.311464828734,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6769.json,open(131),0,16245.970929701421,16245.970929701421,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6769.json,open(131); open(141); open(S7:150),0,20825.3672589507,20825.3672589507,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6882.json,open(37); open(131); open(S7:150),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6882.json,open(S1:34); open(S2:15); open(S3:70),0,,1000000.0,1,0,DC PF success | AC exception: mp.net_model.ensure_ref_node: must have at least one REF or PV node
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6882.json,open(5); open(6); open(7),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6882.json,open(S9:5); open(S1:34); open(S2:15),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4499.json,open(37); open(131); open(S7:150),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4499.json,open(37),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4499.json,open(34); open(15); open(70),0,,1000000.0,1,0,DC PF success | AC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6244.json,open(105); open(128); open(S6:136),0,48929.17833232332,48929.17833232332,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6244.json,open(105); open(128),0,21573.56583088924,21573.56583088924,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6244.json,open(105); open(128); open(S130:131),0,22087.40500862109,22087.40500862109,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6244.json,open(S1:34); open(S2:15); open(S4:95),0,19749.30278066314,19749.30278066314,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2401.json,open(131); open(149); open(S7:150),0,16681.841829317123,16681.841829317123,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2401.json,open(131); open(S7:149),0,16458.70943151166,16458.70943151166,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2401.json,open(131); open(149),0,16458.70943151166,16458.70943151166,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2401.json,open(131),0,16441.95349635266,16441.95349635266,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6570.json,open(105); open(128); open(S6:136),0,17872.9899470646,17872.9899470646,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6570.json,open(105); open(128); open(S130:149),0,19747.892730940996,19747.892730940996,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9980.json,open(118); open(131); open(S7:150),0,21198.55654256755,21198.55654256755,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9980.json,open(118); open(S5:123); open(131),0,21115.041703423172,21115.041703423172,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9980.json,open(118); open(131); open(149),0,20809.397481586126,20809.397481586126,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9980.json,open(105); open(128); open(S6:136),0,25021.551866760652,25021.551866760652,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9980.json,open(118); open(131),0,21084.595671346287,21084.595671346287,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4364.json,open(105); open(128); open(S6:136),0,18333.0568909822,18333.0568909822,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4364.json,open(41); open(128); open(S6:136),0,18548.562420153103,18548.562420153103,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3054.json,open(131); open(149); open(S7:150),0,16886.250878239236,16886.250878239236,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3054.json,open(131); open(149),0,16686.465862486362,16686.465862486362,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3054.json,open(131); open(141); open(S7:150),0,19965.359501830688,19965.359501830688,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3054.json,open(131),0,16245.086147770187,16245.086147770187,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3054.json,open(131); open(S7:150),0,16477.862951563504,16477.862951563504,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3054.json,open(S6:135); open(S8:160); open(S1:34),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8120.json,open(131); open(149); open(S7:150),0,19247.460382833226,19247.460382833226,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8120.json,open(131); open(149),0,19157.005086475463,19157.005086475463,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8120.json,open(131),0,19132.087188756057,19132.087188756057,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8120.json,open(131); open(S7:150); open(186),0,19463.708369567215,19463.708369567215,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8120.json,open(S3:70); open(S5:120); open(S1:34),0,23441.909212043563,23441.909212043563,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8120.json,open(S3:73); open(S5:120); open(S1:34),0,22351.00124039743,22351.00124039743,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1389.json,open(117); open(S7:150); open(131),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1389.json,open(117); open(S5:123); open(131),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1389.json,open(117); open(S1:41); open(128),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1389.json,open(2); open(128); open(S6:136),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1389.json,open(S3:70); open(S9:5); open(S1:34),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9663.json,open(131); open(149); open(S7:150),0,18322.936949377003,18322.936949377003,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9663.json,open(118); open(131); open(S7:150),0,22036.64297033294,22036.64297033294,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9663.json,open(131); open(141); open(S7:150),0,23783.479708847877,23783.479708847877,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9663.json,open(130); open(S7:150),0,16583.252456455994,16583.252456455994,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9663.json,open(118); open(131); open(149),0,22792.44747655714,22792.44747655714,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9663.json,open(131),0,16999.990043761205,16999.990043761205,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9663.json,open(131); open(149),0,17890.024082827207,17890.024082827207,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8778.json,open(118); open(131); open(S7:149),0,20373.37024584969,20373.37024584969,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8778.json,open(118); open(S1:41); open(128),0,20763.14140601391,20763.14140601391,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8778.json,open(149),0,15389.680096156175,15389.680096156175,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8778.json,open(118); open(S6:135); open(149),0,20600.173865448072,20600.173865448072,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7033.json,open(105); open(128); open(S6:136),0,17820.33087729668,17820.33087729668,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7033.json,open(S4:95); open(S4:96); open(S4:97),0,32767.681487717826,32767.681487717826,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1204.json,open(131); open(149); open(S7:150),0,15517.492916852349,15517.492916852349,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1204.json,open(131); open(149),0,15420.254474147901,15420.254474147901,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1204.json,open(131),0,15360.191267516879,15360.191267516879,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1204.json,open(131); open(S7:150),0,15480.25279986337,15480.25279986337,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1204.json,open(S5:120); open(S5:122); open(S5:123),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_712.json,open(105); open(128); open(S6:136),0,22608.600418233273,22608.600418233273,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_712.json,open(S6:136),0,21222.75189865312,21222.75189865312,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5940.json,open(131); open(149); open(S7:150),0,20737.036173791104,20737.036173791104,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5940.json,open(131),0,20324.02255686626,20324.02255686626,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5940.json,open(131); open(141); open(S7:150),0,24365.948188218696,24365.948188218696,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5940.json,open(131); open(S7:150),0,20602.24507446446,20602.24507446446,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5940.json,open(131); open(149); open(S8:166),0,19370.732882765402,19370.732882765402,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9315.json,open(105); open(128); open(S6:136),0,50593.24571629515,50593.24571629515,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9315.json,open(105); open(128); open(132),0,20848.391595364697,20848.391595364697,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9315.json,open(S6:135); open(S8:160); open(S9:5),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9315.json,open(S6:135); open(S8:160); open(S1:34),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5153.json,open(131); open(149); open(S7:150),0,15242.671113124592,15242.671113124592,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5153.json,open(131); open(149),0,15151.9062264808,15151.9062264808,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5153.json,open(131); open(141); open(S7:150),0,18141.19178523248,18141.19178523248,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5153.json,open(131); open(S7:150),0,15241.030281314106,15241.030281314106,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5153.json,open(131),0,15127.993824607413,15127.993824607413,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5153.json,open(131); open(147); open(S7:150),0,16355.871130698144,16355.871130698144,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9937.json,open(131); open(149); open(S7:150),0,16109.184752641946,16109.184752641946,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9937.json,open(131),0,15994.564940736782,15994.564940736782,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9937.json,open(131); open(149),0,16018.444787187893,16018.444787187893,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9937.json,open(131); open(S7:150),0,16107.598720373118,16107.598720373118,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6675.json,open(105); open(128); open(S6:136),0,20901.06687883909,20901.06687883909,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6675.json,open(105); open(128); open(132),0,20896.004721155172,20896.004721155172,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6675.json,open(105); open(128); open(S6:135),0,19897.800176163713,19897.800176163713,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3144.json,open(41); open(128); open(S6:136),0,18288.507784008565,18288.507784008565,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3144.json,open(34); open(15); open(70),0,19609.437850798982,19609.437850798982,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5238.json,open(105); open(128); open(S6:136),0,23238.14382467816,23238.14382467816,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5238.json,open(105); open(128); open(S6:135),0,22234.74753614747,22234.74753614747,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4724.json,open(131); open(149); open(S7:150),0,18154.674799101926,18154.674799101926,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4724.json,open(131),0,16955.562388691014,16955.562388691014,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4724.json,open(131); open(S7:150),0,17325.457872448977,17325.457872448977,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4724.json,open(131); open(149),0,17741.85365545516,17741.85365545516,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2377.json,open(105); open(128); open(S6:136),0,21675.621929283727,21675.621929283727,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2377.json,open(105); open(128); open(S2:21),0,25911.625786530894,25911.625786530894,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2377.json,open(131),0,19911.175176433073,19911.175176433073,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2377.json,open(105); open(128); open(S1:41),0,20393.357857209434,20393.357857209434,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2377.json,open(41); open(128); open(S6:136),0,21617.78497271424,21617.78497271424,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2377.json,open(S2:15); open(S2:16); open(S2:17),0,24139.864415289918,24139.864415289918,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7321.json,open(S6:139); open(143); open(156),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7321.json,open(131); open(149); open(S7:150),0,16364.134920682876,16364.134920682876,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7321.json,open(131); open(149),0,16196.043081890404,16196.043081890404,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3673.json,open(118); open(131); open(S7:149),0,20448.87407443054,20448.87407443054,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3673.json,open(118); open(131),0,20780.68924283375,20780.68924283375,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3673.json,open(118); open(131); open(149),0,20448.87407443054,20448.87407443054,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6309.json,open(131); open(149); open(S7:150),0,16967.849826937312,16967.849826937312,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6309.json,open(131),0,16805.703500710013,16805.703500710013,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9412.json,open(125); open(131); open(141),0,18507.25644307237,18507.25644307237,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9412.json,open(125); open(131); open(S7:150),0,15726.578710429598,15726.578710429598,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9412.json,open(S4:96); open(S4:97); open(S4:98),0,32254.21088858937,32254.21088858937,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9412.json,open(S4:96); open(S6:135); open(S1:34),0,21508.891684724415,21508.891684724415,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5716.json,open(118); open(131); open(S7:150),0,21017.226344238887,21017.226344238887,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5716.json,open(118); open(S1:41); open(128),0,20863.254886226765,20863.254886226765,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5716.json,open(118); open(S5:123); open(131),0,20895.93824413672,20895.93824413672,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5716.json,open(131); open(149); open(S7:150),0,15879.294709991555,15879.294709991555,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5716.json,open(118); open(131); open(149),0,20538.885429868893,20538.885429868893,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5716.json,open(118); open(131); open(S6:135),0,20934.37855409237,20934.37855409237,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5716.json,open(S4:96); open(S8:161); open(S1:34),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7201.json,open(118); open(131); open(149),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7201.json,open(118); open(131); open(S7:150),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7201.json,open(118); open(131); open(S2:15),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8356.json,open(105); open(128); open(S6:136),0,18098.889968454885,18098.889968454885,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8356.json,open(S2:15); open(S2:16); open(S2:18),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1673.json,open(131); open(149); open(S7:150),0,16510.192802786078,16510.192802786078,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1673.json,open(131); open(149),0,16375.267306634869,16375.267306634869,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1673.json,open(131),0,16226.108828292889,16226.108828292889,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1673.json,open(131); open(S7:150),0,16384.669082544184,16384.669082544184,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1673.json,open(131); open(S6:135); open(149),0,16365.021879657192,16365.021879657192,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9989.json,open(105); open(128); open(S6:136),0,18312.2352185672,18312.2352185672,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9989.json,open(105); open(128),0,17054.432264597817,17054.432264597817,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9989.json,open(105); open(128); open(S1:41),0,17127.450799588252,17127.450799588252,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5909.json,open(118); open(131); open(S7:150),0,27714.07163507784,27714.07163507784,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5909.json,open(118); open(131); open(149),0,27188.70030961598,27188.70030961598,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5909.json,open(105); open(128); open(S6:139),0,22429.256986496872,22429.256986496872,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5909.json,open(105); open(128); open(S6:138),0,22430.920162937677,22430.920162937677,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5909.json,open(118); open(131),0,27591.977145604113,27591.977145604113,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5909.json,open(105); open(128); open(S6:136),0,22432.82563684204,22432.82563684204,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5909.json,open(S1:34); open(S2:15); open(S3:70),0,24651.22520631338,24651.22520631338,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_693.json,open(131); open(149); open(S7:150),0,18971.46641302673,18971.46641302673,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_693.json,open(131); open(S6:135); open(149),0,18887.576921418655,18887.576921418655,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_693.json,open(131); open(S7:150),0,19018.250407594365,19018.250407594365,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_693.json,open(131); open(141); open(149),0,22624.205399981776,22624.205399981776,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7646.json,open(131); open(149); open(S7:150),0,16708.89662094775,16708.89662094775,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7646.json,open(131),0,16447.370106303188,16447.370106303188,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7646.json,open(131); open(141),0,20209.048302639974,20209.048302639974,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7646.json,open(131); open(147); open(S7:150),0,17203.004959435253,17203.004959435253,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3317.json,open(105); open(128); open(S6:136),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3317.json,open(105); open(128),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3317.json,open(S2:15); open(S2:16); open(S2:18),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9367.json,open(119); open(S5:123); open(125),0,54245.891619224305,54245.891619224305,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9367.json,open(131); open(149),0,15828.389286706239,15828.389286706239,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9367.json,open(131); open(149); open(S7:150),0,15926.745723582177,15926.745723582177,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9367.json,open(131); open(S7:150),0,15657.09765616302,15657.09765616302,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9367.json,open(131); open(S7:155),0,15935.000211376646,15935.000211376646,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9367.json,open(131),0,15549.096846341952,15549.096846341952,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9367.json,open(34); open(15); open(70),0,18896.615594430656,18896.615594430656,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_552.json,open(118); open(S5:124); open(131),0,21661.65746211818,21661.65746211818,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_552.json,open(118); open(131); open(S7:150),0,21102.5005273898,21102.5005273898,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_552.json,open(118); open(S2:15); open(131),0,21405.821696244733,21405.821696244733,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_552.json,open(118); open(S5:119); open(131),0,22098.49281799768,22098.49281799768,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_552.json,open(118); open(131); open(149),0,21372.255005244984,21372.255005244984,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4979.json,open(118); open(131); open(S7:149),0,24145.022126307224,24145.022126307224,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4979.json,open(118); open(128),0,24537.222140204954,24537.222140204954,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4979.json,open(118); open(131); open(S6:135),0,24506.326912851015,24506.326912851015,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4979.json,open(118); open(131),0,24477.76588022334,24477.76588022334,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4979.json,open(34); open(15); open(70),0,22894.902255276287,22894.902255276287,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1732.json,open(41); open(128); open(S6:136),0,21012.300032650426,21012.300032650426,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1732.json,open(41); open(128),0,19755.826668367714,19755.826668367714,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8982.json,open(132); open(147); open(S7:150),0,16805.474467678865,16805.474467678865,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8982.json,open(132); open(147); open(S1:41),0,16647.454071589473,16647.454071589473,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_35.json,open(118); open(131); open(S7:149),0,20833.449128589662,20833.449128589662,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_35.json,open(118); open(S1:41); open(128),0,21675.94032534916,21675.94032534916,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_35.json,open(118); open(131); open(S6:135),0,21193.427355158477,21193.427355158477,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_35.json,open(118); open(S1:182); open(149),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_120.json,open(105); open(128); open(S6:136),0,19672.128511606712,19672.128511606712,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_120.json,open(S2:15); open(S2:16); open(S2:17),0,22527.648727535347,22527.648727535347,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9423.json,open(105); open(128); open(S6:136),0,17338.531363066675,17338.531363066675,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9423.json,open(105); open(128),0,16080.467244707626,16080.467244707626,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7631.json,open(131); open(149); open(S7:150),0,15674.417522183696,15674.417522183696,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7631.json,open(131); open(149),0,15572.616090369724,15572.616090369724,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7631.json,open(131),0,15444.484876788807,15444.484876788807,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7631.json,open(131); open(S7:149),0,15572.616090369724,15572.616090369724,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7631.json,open(131); open(S7:150),0,15565.146105503767,15565.146105503767,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3422.json,open(131); open(149); open(S7:150),0,18574.088627921552,18574.088627921552,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3422.json,open(131),0,17379.993821806707,17379.993821806707,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3422.json,open(131); open(S7:150),0,17748.594016861673,17748.594016861673,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7287.json,open(105); open(128); open(S6:136),0,18515.834766799824,18515.834766799824,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7287.json,open(S2:15); open(S5:121); open(S1:34),0,17640.99413806739,17640.99413806739,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5340.json,open(131); open(149); open(S7:150),0,17856.803716187234,17856.803716187234,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5340.json,open(131),0,16657.889875511024,16657.889875511024,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5340.json,open(S2:15); open(S7:150); open(S1:34),0,17377.73330723041,17377.73330723041,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7059.json,open(131); open(149); open(S7:150),0,16136.814071119763,16136.814071119763,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7059.json,open(131); open(S7:150),0,16167.419975413472,16167.419975413472,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7059.json,open(131),0,16052.761881101249,16052.761881101249,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7967.json,open(41); open(128); open(S6:136),0,20050.602161080966,20050.602161080966,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7967.json,open(105); open(128); open(S6:136),0,20131.674911857088,20131.674911857088,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7967.json,open(119); open(S5:123); open(125),0,28675.874180187286,28675.874180187286,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7813.json,open(125); open(131); open(141),0,18943.818960491048,18943.818960491048,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7813.json,open(125); open(131); open(S7:150),0,15797.901028334352,15797.901028334352,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7813.json,open(125); open(131); open(S7:154),0,15870.279745253247,15870.279745253247,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5259.json,open(131); open(149); open(S7:150),0,16917.437566854238,16917.437566854238,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5259.json,open(131),0,16591.19167997413,16591.19167997413,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5259.json,open(131); open(141); open(S7:150),0,19511.715623098895,19511.715623098895,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5259.json,open(131); open(S7:150),0,16789.34027319454,16789.34027319454,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5259.json,open(131); open(S6:135),0,16641.93172510444,16641.93172510444,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5259.json,open(131); open(S7:150); open(175),0,18668.099572353578,18668.099572353578,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9222.json,open(131); open(149); open(S7:150),0,15945.480008624045,15945.480008624045,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9222.json,open(131); open(149),0,15843.668513523466,15843.668513523466,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9222.json,open(131),0,15715.692124056308,15715.692124056308,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3043.json,open(131); open(149),0,19594.692853012628,19594.692853012628,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3043.json,open(131); open(149); open(S7:150),0,19729.569404373022,19729.569404373022,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3043.json,open(131); open(S7:150),0,19603.642613660966,19603.642613660966,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3043.json,open(131),0,19445.156892409395,19445.156892409395,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3043.json,open(131); open(149); open(S6:135),0,19584.387979362542,19584.387979362542,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3043.json,open(131); open(147); open(S7:150),0,20734.508851162424,20734.508851162424,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3043.json,open(34); open(15); open(70),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7161.json,open(131); open(149); open(S7:150),0,20136.890198613055,20136.890198613055,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7161.json,open(131); open(149),0,19968.68966707934,19968.68966707934,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7161.json,open(131),0,19810.342992569473,19810.342992569473,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7161.json,open(S1:34); open(S1:35); open(S1:40),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2495.json,open(105); open(128); open(S6:136),0,20806.13168679835,20806.13168679835,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2495.json,open(105); open(128); open(S1:41),0,19716.905149813487,19716.905149813487,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2192.json,open(37); open(131); open(S7:150),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2192.json,open(37); open(S5:123); open(131),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2192.json,open(S4:95); open(S9:5); open(S1:34),0,,1000000.0,1,0,DC PF success | AC exception: mp.net_model.ensure_ref_node: must have at least one REF or PV node
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6629.json,open(105); open(128); open(S6:136),0,17657.260053191858,17657.260053191858,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6629.json,open(105); open(128),0,16400.776619721437,16400.776619721437,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3669.json,open(119); open(S5:124); open(125),0,54786.74025660041,54786.74025660041,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3669.json,open(119); open(S1:41); open(128),0,18359.626334060038,18359.626334060038,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3669.json,open(34); open(35); open(40),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6068.json,open(131); open(149); open(S7:150),0,15519.350678623849,15519.350678623849,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6068.json,open(131); open(149),0,15423.573916323738,15423.573916323738,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6068.json,open(131),0,15435.188636720213,15435.188636720213,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2513.json,open(131); open(149); open(S7:150),0,16170.877382325943,16170.877382325943,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2513.json,open(131),0,16085.14758013699,16085.14758013699,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2513.json,open(34); open(35); open(40),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5972.json,open(105); open(128); open(S6:136),0,20998.608262125766,20998.608262125766,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5972.json,open(105); open(128); open(S1:41),0,19828.444250609493,19828.444250609493,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5972.json,open(105); open(128); open(S2:16),0,22598.74666697442,22598.74666697442,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3961.json,open(118); open(131); open(S7:149),0,20840.445461757183,20840.445461757183,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3961.json,open(118); open(131); open(S6:135),0,21198.55654256755,21198.55654256755,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3961.json,open(118); open(131); open(S7:151),0,22066.829019599285,22066.829019599285,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3961.json,open(118); open(131); open(149),0,20840.445461757183,20840.445461757183,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3961.json,open(118); open(131),0,21170.10021922058,21170.10021922058,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3303.json,open(2); open(128); open(S6:136),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3303.json,open(2); open(128),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3303.json,open(105); open(128); open(S6:136),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3303.json,open(S2:15); open(S2:17); open(S2:19),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_929.json,open(105); open(128); open(S6:136),0,21534.877964347135,21534.877964347135,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_929.json,open(41); open(128); open(S6:136),0,21518.425077585653,21518.425077585653,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_929.json,open(105); open(128); open(130),0,20326.224930723227,20326.224930723227,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_929.json,open(105); open(128); open(132),0,21483.68031284629,21483.68031284629,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6369.json,open(105); open(128); open(S6:136),0,46510.06385978265,46510.06385978265,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6369.json,open(105); open(128); open(136),0,46510.06385978265,46510.06385978265,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2001.json,open(125); open(131); open(141),0,19548.352023877487,19548.352023877487,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2001.json,open(131); open(149),0,16403.426269024876,16403.426269024876,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2001.json,open(131); open(141); open(S7:150),0,19328.451065336285,19328.451065336285,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2001.json,open(131),0,16324.539591884095,16324.539591884095,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9419.json,open(119); open(S5:123); open(125),0,54689.928874987505,54689.928874987505,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9419.json,open(S2:16); open(S5:120); open(S1:34),0,19982.309570570636,19982.309570570636,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_9419.json,open(S1:34); open(S1:35); open(S1:40),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6284.json,open(131); open(149); open(S7:150),0,16881.75622935042,16881.75622935042,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6284.json,open(131); open(149),0,16746.831853741463,16746.831853741463,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6284.json,open(131); open(S7:150),0,16756.196683839768,16756.196683839768,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6284.json,open(131),0,16597.606431400123,16597.606431400123,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4355.json,open(105); open(128); open(S6:136),0,46510.06385978265,46510.06385978265,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4355.json,open(117); open(S7:150); open(131),0,17530.120835430665,17530.120835430665,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1114.json,open(118); open(131); open(S6:135),0,21597.909834936763,21597.909834936763,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1114.json,open(118); open(131); open(S7:149),0,21237.86895077324,21237.86895077324,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1114.json,open(118); open(131),0,21569.41835579731,21569.41835579731,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1114.json,open(S1:41); open(128); open(S6:136),0,17970.95722832068,17970.95722832068,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1678.json,open(131); open(149); open(S7:150),0,15541.582468655608,15541.582468655608,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1678.json,open(131),0,15457.539940247565,15457.539940247565,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1678.json,open(131); open(149),0,15445.779970192103,15445.779970192103,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1678.json,open(131); open(S7:149); open(155),0,15937.124027097056,15937.124027097056,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1252.json,open(105); open(128); open(S6:136),0,21006.460939026067,21006.460939026067,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1252.json,open(105); open(S6:135),0,19442.51885134865,19442.51885134865,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1252.json,open(15); open(16); open(17),0,23864.274893395603,23864.274893395603,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1252.json,open(34); open(15),0,20260.680378492394,20260.680378492394,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7910.json,open(105); open(128); open(S6:136),0,22726.89666283123,22726.89666283123,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7910.json,open(132); open(147); open(S7:150),0,21849.546908181866,21849.546908181866,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7910.json,open(131); open(149),0,21057.074686367152,21057.074686367152,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7910.json,open(S9:5); open(S9:6); open(S9:7),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7910.json,open(34); open(35); open(40),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2097.json,open(105); open(128); open(S6:136),0,20917.23766800732,20917.23766800732,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2097.json,open(131); open(182),0,19131.025958172722,19131.025958172722,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2097.json,open(131); open(149); open(S7:150),0,19342.47932688031,19342.47932688031,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1482.json,open(S6:139); open(143); open(156),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1482.json,open(S1:34); open(S1:35); open(S1:40),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7822.json,open(S1:41); open(128); open(S6:136),0,18346.17281805187,18346.17281805187,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7822.json,open(118); open(131); open(S7:149),0,21362.632330076685,21362.632330076685,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7822.json,open(S6:135); open(149); open(S7:151),0,19414.810734318442,19414.810734318442,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7822.json,open(118); open(S1:41); open(128),0,21495.575526517754,21495.575526517754,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7822.json,open(118); open(131); open(149),0,21362.632330076685,21362.632330076685,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7822.json,open(S7:131); open(S7:149); open(156),0,19481.735400626774,19481.735400626774,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7822.json,open(118); open(131); open(S6:135),0,21649.732753432047,21649.732753432047,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7822.json,open(S7:131),0,16496.682559103294,16496.682559103294,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7822.json,open(118); open(131),0,21573.79714757031,21573.79714757031,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7822.json,open(S7:151); open(S7:153); open(S7:154),0,19604.627085336255,19604.627085336255,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2635.json,open(131); open(149); open(S7:150),0,16441.46096798506,16441.46096798506,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2635.json,open(131); open(149),0,16273.221799052551,16273.221799052551,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2635.json,open(131); open(S7:149),0,16273.221799052551,16273.221799052551,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2635.json,open(131); open(141); open(S7:150),0,19035.39373703087,19035.39373703087,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2635.json,open(131),0,16115.175292699352,16115.175292699352,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1285.json,open(105); open(128); open(S6:136),0,18747.70895793481,18747.70895793481,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1285.json,open(105); open(128); open(S130:132),0,18675.856824287854,18675.856824287854,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2330.json,open(105); open(128); open(S6:136),0,18219.303684685114,18219.303684685114,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2330.json,open(105); open(128); open(S6:135),0,17221.988735921906,17221.988735921906,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2330.json,open(S1:34); open(S2:15); open(S4:95),0,17630.542828590336,17630.542828590336,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2330.json,open(S1:34); open(S2:15); open(S9:5),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2330.json,open(S1:34); open(S1:35); open(S1:40),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3206.json,open(105); open(128); open(S6:136),0,17474.948725465685,17474.948725465685,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3206.json,open(105); open(128); open(S130:132),0,17469.8949691089,17469.8949691089,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3206.json,open(S3:70); open(S3:71); open(S3:72),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3234.json,open(105); open(128); open(S6:136),0,22574.5099037991,22574.5099037991,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3234.json,open(105); open(128); open(130),0,21461.922399551728,21461.922399551728,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6388.json,open(125); open(131); open(141),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6388.json,open(7); open(131); open(S7:150),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6388.json,open(S1:34); open(S2:15); open(S3:70),1000000000.0,,,0,0,DC PF failed
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2845.json,open(131); open(149); open(S7:150),0,16589.41987388046,16589.41987388046,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2845.json,open(131); open(141),0,19989.644760603896,19989.644760603896,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2845.json,open(131); open(S7:150),0,16636.78036641872,16636.78036641872,1,1,DC PF success | AC OK
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2845.json,open(131); open(S6:135); open(149),0,16505.55636494152,16505.55636494152,1,1,DC PF success | AC OK

@@ -1,0 +1,3 @@
+{"prompt": "Explain what gradient descent is.", "response": "Gradient descent is an optimization algorithm that iteratively updates parameters in the direction that reduces a loss function, using the gradient as a guide."}
+{"prompt": "Translate to Arabic: Hello, how are you?", "response": "مرحباً، كيف حالك؟"}
+{"prompt": "Write a short paragraph about renewable energy.", "response": "Renewable energy comes from sources that are naturally replenished, such as sunlight, wind, rain, and geothermal heat. It helps reduce greenhouse gas emissions and dependence on fossil fuels."}

@@ -1,0 +1,117 @@
+{
+  "case": "case118",
+  "psps_file": "C:/Users/moham/Downloads/wildfire codes/io/psps_1762221529_2479.json",
+  "settings": {
+    "N_CANDS": 8,
+    "SEED": 7,
+    "LLM_TEMPERATURE": 0.7,
+    "MAX_TOKENS": 120,
+    "ENGINE_ZERO": "gpt-4o-mini-2024-07-18",
+    "ENGINE_FT": "ft:gpt-4o-mini-2024-07-18:personal::CYIxJBFz",
+    "DO_GT": true
+  },
+  "summary_digest": {
+    "psps_forced_open_count": 2,
+    "impacted_corridors": [
+      "S1",
+      "S2",
+      "S3",
+      "S4",
+      "S5",
+      "S6",
+      "S7",
+      "S8",
+      "S9"
+    ],
+    "toggle_budget": 3
+  },
+  "zero_shot_best": {
+    "raw_text": "open(S1:34); open(S2:15); open(S6:135)",
+    "plan": {
+      "corridor_actions": [
+        {
+          "action": "open",
+          "line": 34,
+          "name": "S1"
+        },
+        {
+          "action": "open",
+          "line": 15,
+          "name": "S2"
+        },
+        {
+          "action": "open",
+          "line": 135,
+          "name": "S6"
+        }
+      ]
+    },
+    "score": {
+      "feasible": true,
+      "J": 1747.5325777799173,
+      "shed_MW": 0,
+      "notes": "OK"
+    }
+  },
+  "fine_tuned_best": {
+    "raw_text": "open(LINE); open(S5:122); open(S6:136)",
+    "plan": {
+      "corridor_actions": [
+        {
+          "action": "open",
+          "line": 122,
+          "name": "S5"
+        },
+        {
+          "action": "open",
+          "line": 136,
+          "name": "S6"
+        }
+      ]
+    },
+    "score": {
+      "feasible": true,
+      "J": 1742.5690074562735,
+      "shed_MW": 0,
+      "notes": "OK"
+    }
+  },
+  "ground_truth": {
+    "baseline": {
+      "feasible": true,
+      "J": 1866.4053459572683,
+      "shed_MW": null,
+      "notes": "OK"
+    },
+    "mip_opt": {
+      "feasible": true,
+      "J": 1649.0055001532269,
+      "shed_MW": -1.2221335055073723e-12,
+      "notes": "OK",
+      "opt_switches": [
+        131,
+        135,
+        149
+      ],
+      "opt_plan": {
+        "corridor_actions": [
+          {
+            "name": "UNK",
+            "action": "open",
+            "line": 131
+          },
+          {
+            "name": "S6",
+            "action": "open",
+            "line": 135
+          },
+          {
+            "name": "UNK",
+            "action": "open",
+            "line": 149
+          }
+        ]
+      }
+    }
+  }
+}

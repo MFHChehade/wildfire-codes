@@ -1,0 +1,3 @@
+xi,plan,J_dc,V_pen,J_ac,feasible_dc,ac_ok,notes
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3021.json,open(41); open(128); open(S6:136),1000000000.0,,,0,0,DC verifier error: Unrecognized function or variable 's'. | DC infeasible
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3021.json,open(S2:15); open(S2:16); open(S2:17),1000000000.0,,,0,0,DC verifier error: Unrecognized function or variable 's'. | DC infeasible

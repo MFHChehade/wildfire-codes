@@ -1,0 +1,17 @@
+{
+  "corridor_actions": [
+    {
+      "action": "open",
+      "line": 118
+    },
+    {
+      "action": "open",
+      "line": 131
+    },
+    {
+      "action": "open",
+      "line": 135,
+      "name": "S6"
+    }
+  ]
+}

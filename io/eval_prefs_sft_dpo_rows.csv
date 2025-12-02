@@ -1,0 +1,6 @@
+sample_id,sft_raw_text,sft_plan_text,sft_V_pen,sft_J_dc,sft_feasible_dc,sft_ac_ok,sft_V_pen_effective,dpo_raw_text,dpo_plan_text,dpo_V_pen,dpo_J_dc,dpo_feasible_dc,dpo_ac_ok,dpo_V_pen_effective
+1,open(131); open(S6:135); open(149),open(131); open(S6:135); open(149),,129815.05027580033,1,0,inf,open(131); open(S6:135); open(149),open(131); open(S6:135); open(149),,129815.05027580033,1,0,inf
+2,open(105); open(128); open(S6:136),open(105); open(128); open(S6:136),,129967.22684230901,1,0,inf,open(105); open(128); open(S6:136),open(105); open(128); open(S6:136),,129967.22684230901,1,0,inf
+3,open(125); open(131); open(141),open(125); open(131); open(141),,129781.15177244598,1,0,inf,open(125); open(131); open(141),open(125); open(131); open(141),,129781.15177244598,1,0,inf
+4,open(105); open(128); open(S6:136),open(105); open(128); open(S6:136),,129986.82745594006,1,0,inf,open(105); open(128); open(S6:136),open(105); open(128); open(S6:136),,129986.82745594006,1,0,inf
+5,open(105); open(128); open(S6:136),open(105); open(128); open(S6:136),,129939.1774398484,1,0,inf,open(105); open(128); open(S6:136),open(105); open(128); open(S6:136),,129939.1774398484,1,0,inf

@@ -1,0 +1,44 @@
+{
+  "case": "case118",
+  "psps_file": "C:/Users/moham/Downloads/wildfire codes/io/psps_1762221529_2479.json",
+  "N_CANDS": 8,
+  "engine_finetuned": "ft:gpt-4o-mini-2024-07-18:personal::CYIxJBFz",
+  "summary_digest": {
+    "psps_forced_open_count": 2,
+    "impacted_corridors": [
+      "S1",
+      "S2",
+      "S3",
+      "S4",
+      "S5",
+      "S6",
+      "S7",
+      "S8",
+      "S9"
+    ],
+    "toggle_budget": 3
+  },
+  "best": {
+    "raw_text": "open(LINE); open(S5:123); open(S6:135)",
+    "plan": {
+      "corridor_actions": [
+        {
+          "action": "open",
+          "line": 123,
+          "name": "S5"
+        },
+        {
+          "action": "open",
+          "line": 135,
+          "name": "S6"
+        }
+      ]
+    },
+    "score": {
+      "feasible": true,
+      "J": 1721.6199813751605,
+      "shed_MW": 0,
+      "notes": "OK"
+    }
+  }
+}

@@ -1,0 +1,139 @@
+xi,model,parent,feasible_dc,J_dc,V_pen,V_pen_effective,best_plan_text
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1993.json,zero_shot,gpt-4.1-mini-2025-04-14,True,11159.633993343781,16885.20853330173,16885.20853330173,open(34); open(15); open(70)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1993.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,9759.516793551096,nan,1000000.0,open(37); open(131); open(S7:150)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1993.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,9759.516793551096,nan,1000000.0,open(37); open(131); open(S7:150)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2289.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1870.6977197021395,14198.88060768149,14198.88060768149,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2289.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1870.6977197021395,14223.325245032169,14223.325245032169,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2289.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1870.6977197021395,14223.325245032169,14223.325245032169,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6454.json,zero_shot,gpt-4.1-mini-2025-04-14,True,2631.3178112100254,12246.118490177738,12246.118490177738,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6454.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,2631.3178112100254,12250.933757625879,12250.933757625879,open(S5:123); open(131); open(S6:139)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6454.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,2631.3178112100254,12255.194598492364,12255.194598492364,open(S5:124); open(131); open(141)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2648.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1861.2635426752006,12496.674022591349,12496.674022591349,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2648.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1861.2635426752006,12518.667860754764,12518.667860754764,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2648.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1861.2635426752006,12518.667860754764,12518.667860754764,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7075.json,zero_shot,gpt-4.1-mini-2025-04-14,True,2132.795273469106,13343.840346811485,13343.840346811485,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7075.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,2132.795273469106,13346.106879568953,13346.106879568953,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7075.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,2132.795273469106,13346.106879568953,13346.106879568953,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3658.json,zero_shot,gpt-4.1-mini-2025-04-14,True,2582.953888781917,12089.904952485169,12089.904952485169,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3658.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,2582.953888781917,12337.396729110656,12337.396729110656,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3658.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,2582.953888781917,12337.396729110656,12337.396729110656,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2479.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1866.4053459572683,12713.938853168107,12713.938853168107,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2479.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1866.4053459572683,12743.907155395002,12743.907155395002,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2479.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1866.4053459572683,12743.907155395002,12743.907155395002,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_626.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1996.4060354718158,12074.071569631633,12074.071569631633,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_626.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1996.4060354718158,12074.489769514723,12074.489769514723,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_626.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1996.4060354718158,12074.489769514723,12074.489769514723,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8570.json,zero_shot,gpt-4.1-mini-2025-04-14,True,11145.738764703065,12506.822148883268,12506.822148883268,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8570.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,11145.738764703065,12507.195347671206,12507.195347671206,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8570.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,3333.2751693348046,12510.264087717645,12510.264087717645,open(125); open(131); open(141)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7686.json,zero_shot,gpt-4.1-mini-2025-04-14,True,2089.54356107444,12080.583917669808,12080.583917669808,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7686.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,2089.54356107444,12080.830090347983,12080.830090347983,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7686.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,2089.54356107444,12080.830090347983,12080.830090347983,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6910.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1871.103787231245,12271.672589683385,12271.672589683385,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6910.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1871.103787231245,12301.10532765934,12301.10532765934,open(41); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6910.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1871.103787231245,12301.10532765934,12301.10532765934,open(41); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7546.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1873.6455626402355,15024.110048015575,15024.110048015575,open(S1:34); open(S2:15); open(S3:70)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7546.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1870.750303863349,12173.938256878513,12173.938256878513,open(41); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7546.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1870.750303863349,12173.938256878513,12173.938256878513,open(41); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6346.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1871.2629518149247,13717.74949167914,13717.74949167914,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6346.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1871.2629518149247,13758.577189338512,13758.577189338512,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6346.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1871.2629518149247,13758.577189338512,13758.577189338512,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4161.json,zero_shot,gpt-4.1-mini-2025-04-14,True,2052.834549550405,14131.936906257482,14131.936906257482,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4161.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,2052.834549550405,14132.50013085692,14132.50013085692,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4161.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,2052.834549550405,14132.50013085692,14132.50013085692,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_664.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1863.7984532112184,12600.836500311507,12600.836500311507,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_664.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1863.7984532112184,12636.062436671997,12636.062436671997,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_664.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1863.7984532112184,12636.062436671997,12636.062436671997,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3289.json,zero_shot,gpt-4.1-mini-2025-04-14,True,5955.000359184166,nan,1000000.0,open(S3:70); open(S3:73); open(S3:74)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3289.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1873.6900118160615,16103.289617101093,16103.289617101093,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3289.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1873.6900118160615,16103.289617101093,16103.289617101093,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2797.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1863.1772428066145,14114.014328741918,14114.014328741918,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2797.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1863.1772428066145,14155.741224925318,14155.741224925318,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2797.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1863.1772428066145,14155.741224925318,14155.741224925318,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7461.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1863.0272311674848,12389.010640160657,12389.010640160657,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7461.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1863.0272311674848,12399.189602145454,12399.189602145454,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7461.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1863.0272311674848,12399.189602145454,12399.189602145454,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8242.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1871.658042814166,12200.728249454536,12200.728249454536,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8242.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1871.658042814166,12223.791224818793,12223.791224818793,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8242.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1871.658042814166,12223.370153473921,12223.370153473921,open(105); open(128); open(S6:135)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1490.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1793.5754261989234,12087.883431240585,12087.883431240585,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1490.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1793.5754261989234,12276.849381053089,12276.849381053089,open(119); open(S5:123); open(125)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1490.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1793.5754261989234,12276.849381053089,12276.849381053089,open(119); open(S5:123); open(125)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4984.json,zero_shot,gpt-4.1-mini-2025-04-14,True,10885.228420567853,12629.439947202054,12629.439947202054,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4984.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,2721.946553198137,12632.716365050937,12632.716365050937,open(125); open(131); open(141)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4984.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,2721.946553198137,12632.716365050937,12632.716365050937,open(125); open(131); open(141)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7123.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1828.204745844516,14114.208812717725,14114.208812717725,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7123.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1828.204745844516,14138.312488266061,14138.312488266061,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7123.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1828.204745844516,14138.312488266061,14138.312488266061,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8682.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1870.7561757787087,14212.697829844004,14212.697829844004,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8682.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1870.7561757787087,14238.57061536585,14238.57061536585,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8682.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1870.7561757787087,14238.57061536585,14238.57061536585,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8555.json,zero_shot,gpt-4.1-mini-2025-04-14,True,2003.6944557334618,12088.366793305919,12088.366793305919,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8555.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,2003.6944557334618,12088.770450829952,12088.770450829952,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8555.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,2003.6944557334618,12088.770450829952,12088.770450829952,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1661.json,zero_shot,gpt-4.1-mini-2025-04-14,True,11849.975146131905,14100.695548683498,14100.695548683498,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1661.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,11849.975146131905,nan,1000000.0,open(S6:139); open(143); open(156)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1661.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,11849.975146131905,nan,1000000.0,open(S6:139); open(143); open(156)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3151.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1793.8500893819273,11956.376496291246,11956.376496291246,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3151.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1793.8500893819273,12147.63610337663,12147.63610337663,open(119); open(S5:123); open(125)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3151.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1793.8500893819273,12147.63610337663,12147.63610337663,open(119); open(S5:123); open(125)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_498.json,zero_shot,gpt-4.1-mini-2025-04-14,True,2116.0044446578504,nan,1000000.0,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_498.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,2116.0044446578504,nan,1000000.0,open(117); open(131); open(S7:150)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_498.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,2116.0044446578504,nan,1000000.0,open(117); open(131); open(S7:150)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1429.json,zero_shot,gpt-4.1-mini-2025-04-14,True,10848.484733285122,12088.340725691662,12088.340725691662,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1429.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,2691.9301891250752,12091.814544092533,12091.814544092533,open(125); open(131); open(141)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1429.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,2691.9301891250752,12091.814544092533,12091.814544092533,open(125); open(131); open(141)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8530.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1796.7404259205396,15956.072165437205,15956.072165437205,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8530.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1796.7404259205396,16149.127534168272,16149.127534168272,open(119); open(S5:123); open(125)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8530.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1796.7404259205396,16149.127534168272,16149.127534168272,open(119); open(S5:123); open(125)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4919.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1959.334801647735,12079.957792760426,12079.957792760426,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4919.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1959.334801647735,12080.430602816868,12080.430602816868,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4919.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1959.334801647735,12080.430602816868,12080.430602816868,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4207.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1836.3199284493955,13366.913088765225,13366.913088765225,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4207.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1836.3199284493955,13307.784277574507,13307.784277574507,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4207.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1836.3199284493955,13307.784277574507,13307.784277574507,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2585.json,zero_shot,gpt-4.1-mini-2025-04-14,True,2005.496904742115,12185.651717276292,12185.651717276292,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2585.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,2005.496904742115,12185.957862014286,12185.957862014286,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2585.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,2005.496904742115,12185.957862014286,12185.957862014286,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3011.json,zero_shot,gpt-4.1-mini-2025-04-14,True,9021.939900991285,nan,1000000.0,open(S5:120); open(S5:122); open(S5:123)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3011.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1881.579806292446,12080.188919900991,12080.188919900991,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3011.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1881.579806292446,12080.188919900991,12080.188919900991,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3357.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1871.1299708325785,12658.833753646933,12658.833753646933,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3357.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1871.1299708325785,12702.356540485172,12702.356540485172,open(41); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3357.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1871.1299708325785,12702.356540485172,12702.356540485172,open(41); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5692.json,zero_shot,gpt-4.1-mini-2025-04-14,True,2166.0927289081856,14954.581923611999,14954.581923611999,open(34); open(15); open(70)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5692.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,2163.6555259630313,12048.412543640508,12048.412543640508,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5692.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,2163.6555259630313,12048.412543640508,12048.412543640508,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4286.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1765.7621264516101,12178.289228974492,12178.289228974492,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4286.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1765.7621264516101,12179.600059368355,12179.600059368355,open(S5:123); open(131); open(S6:139)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_4286.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1608.1784557067992,12294.374787934605,12294.374787934605,open(118); open(131); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5665.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1830.2494463512905,16459.186035763425,16459.186035763425,open(S1:34); open(S2:15); open(S4:95)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5665.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1831.4676445597834,15992.630844534011,15992.630844534011,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5665.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1831.4676445597834,15992.630844534011,15992.630844534011,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2142.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1964.8496338080186,15955.92489517348,15955.92489517348,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2142.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1964.8496338080186,15956.317067323334,15956.317067323334,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_2142.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1964.8496338080186,15956.317067323334,15956.317067323334,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6977.json,zero_shot,gpt-4.1-mini-2025-04-14,True,2506.1956475010265,12099.029741792869,12099.029741792869,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6977.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,2506.1956475010265,12344.739002669638,12344.739002669638,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6977.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,2506.1956475010265,12344.739002669638,12344.739002669638,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6049.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1870.7849178259937,12186.418984785689,12186.418984785689,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6049.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1870.7849178259937,12207.163177851517,12207.163177851517,open(41); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_6049.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1870.7849178259937,12207.163177851517,12207.163177851517,open(41); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_808.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1766.6998326913174,12239.921627967477,12239.921627967477,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_808.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1766.6998326913174,12239.91447373374,12239.91447373374,open(S5:123); open(131); open(S6:139)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_808.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1607.8090682223137,12351.614369609795,12351.614369609795,open(118); open(131); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1168.json,zero_shot,gpt-4.1-mini-2025-04-14,True,2018.8237449647636,nan,1000000.0,open(34); open(15); open(70)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1168.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,2013.2517248483255,nan,1000000.0,open(119); open(S5:124); open(125)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_1168.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,2013.2517248483255,nan,1000000.0,open(119); open(S5:124); open(125)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8848.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1861.2789886690407,12381.709183249624,12381.709183249624,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8848.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1861.2789886690407,12404.916644426883,12404.916644426883,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8848.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1861.2789886690407,12404.916644426883,12404.916644426883,open(105); open(128); open(S6:136)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7966.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1732.1210233159572,13007.237308943542,13007.237308943542,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7966.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1732.1210233159572,13007.317606437766,13007.317606437766,open(S5:124); open(131); open(135)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_7966.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1732.1210233159572,13007.358595820104,13007.358595820104,open(S5:124); open(131); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5939.json,zero_shot,gpt-4.1-mini-2025-04-14,True,1848.4010129148364,12080.282059337918,12080.282059337918,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5939.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,1848.4010129148364,12080.518260638226,12080.518260638226,open(S5:124); open(131); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_5939.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,1848.4010129148364,12080.518260638226,12080.518260638226,open(S5:124); open(131); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3081.json,zero_shot,gpt-4.1-mini-2025-04-14,True,2052.3935353571082,12511.127370288601,12511.127370288601,do_nothing
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3081.json,sft,ft:gpt-4.1-mini-2025-04-14:personal::CavrWS4O,True,2052.3935353571082,12511.482540136083,12511.482540136083,open(131); open(S6:135); open(149)
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3081.json,dpo,ft:gpt-4.1-mini-2025-04-14:personal::CcHzY2eO,True,2052.3935353571082,12511.482540136083,12511.482540136083,open(131); open(S6:135); open(149)

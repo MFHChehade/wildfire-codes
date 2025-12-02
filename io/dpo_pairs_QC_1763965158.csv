@@ -1,0 +1,5 @@
+xi,chosen,rejected,best_V,worst_V,delta_V,rel_V
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8708.json,open(125); open(131); open(S7:150),open(41); open(128); open(S6:136),11920.5104506719,12010.086462909709,89.57601223780875,1.0075144443359605
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8708.json,open(125); open(131); open(S7:150),open(125); open(131); open(141),11920.5104506719,11934.694701513603,14.184250841703033,1.001189902974407
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_8708.json,open(125); open(131); open(141),open(41); open(128); open(S6:136),11934.694701513603,12010.086462909709,75.39176139610572,1.0063170247150557
+C:/Users/moham/Downloads/wildfire codes/io/psps_1762883572_3021.json,open(41); open(128); open(S6:136),open(S2:15); open(S1:34); open(S3:70),12016.985857668333,14954.74476558902,2937.7589079206864,1.2444672019020502

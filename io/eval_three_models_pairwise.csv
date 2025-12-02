@@ -1,0 +1,4 @@
+pair,n_overlap_feasible,frac_zero_shot_better,frac_sft_better,frac_tie,delta_J_mean(b-a),delta_J_median(b-a),delta_J_std(b-a),delta_J_min(b-a),delta_J_max(b-a),frac_dpo_better
+zero_shot_vs_sft,40,0.125,0.225,0.65,-670.9572433191083,0.0,2084.595937741436,-8156.5533091460875,290.46788919518985,
+sft_vs_dpo,40,,0.05,0.825,-23.00529308387082,0.0,89.96950201040565,-257.7282620251999,246.44012914917016,0.125
+zero_shot_vs_dpo,40,0.1,,0.6,-693.9625364029791,0.0,2077.779971988589,-8156.5533091460875,290.46788919518985,0.3
