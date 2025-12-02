@@ -2,10 +2,10 @@
 
 Code for wildfire-aware power system studies, with a focus on **optimal transmission switching (OTS)**, **topology control**, and **Public Safety Power Shutoff (PSPS)**–style line outages on benchmark test systems (e.g., RTS-GMLC).
 
-The repository collects several generations of code in **MATLAB**, **Julia**, and **Python** for:
+The repository collects several generations of code in **MATLAB** and **Python** for:
 
 - Solving DC-OPF and DC-OTS models on transmission grids  
-- Running Benders decomposition and scenario-based OTS  
+- Running scenario-based OTS  
 - Generating and analyzing contingency / wildfire scenarios  
 - Post-processing and visualization of results
 
